@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb325151-bd99-40c9-bee9-a6157640a4c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.env" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ilias\Desktop\ai_summarizer\.gitignore" />
       <recent name="C:\Users\ilias\Desktop\ai_summarizer\public" />
       <recent name="C:\Users\ilias\Desktop\ai_summarizer\src" />
     </key>
@@ -68,7 +69,7 @@
       <workItem from="1684575140708" duration="1572000" />
       <workItem from="1684662454814" duration="5923000" />
       <workItem from="1684748375868" duration="1949000" />
-      <workItem from="1684750360403" duration="1869000" />
+      <workItem from="1684750360403" duration="2198000" />
     </task>
     <servers />
   </component>
